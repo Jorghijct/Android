@@ -1,4 +1,4 @@
-package com.JorghiCote.todosimple.ui.theme
+package com.jorghicote.todosimple.ui.theme
 
 import android.app.Activity
 import android.os.Build
